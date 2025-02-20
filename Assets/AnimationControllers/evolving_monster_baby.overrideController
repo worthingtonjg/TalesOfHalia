@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: evolving_monster_baby
+  m_Controller: {fileID: 9100000, guid: d8a6ba5a01839a04780850f380f187f8, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 0571d02811485134a8e7d6bda33eff1b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0571d02811485134a8e7d6bda33eff1b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4bd659097223671449a060a30e6c9fea, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4bd659097223671449a060a30e6c9fea, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f6e08bcb78023124aa8f4ed4554bbe5a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f6e08bcb78023124aa8f4ed4554bbe5a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 62e1828fc1c06e54d954b35201bb7a6e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 62e1828fc1c06e54d954b35201bb7a6e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d47ca40585e0238439ef993154b31dad, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d47ca40585e0238439ef993154b31dad, type: 2}
